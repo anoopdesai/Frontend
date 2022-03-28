@@ -1,0 +1,70 @@
+<style>
+    /* nav css Start */
+    
+    .main1 {
+        background: url(https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) center no-repeat;
+        background-size: cover;
+        background-position: fixed;
+        height: 100vh;
+    }
+    
+    .main1 h2 {
+        text-align: center;
+        position: relative;
+        top: 30%;
+        color: black;
+        font-size: 45px;
+        font-family: 'Times New Roman', Times, serif
+    }
+    
+    .header {
+        display: flex;
+        justify-content: space-around;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
+    }
+    
+    .nav ul {
+        display: flex;
+    }
+    
+    .nav ul li {
+        list-style: none;
+        margin-left: 20px;
+        padding: 10px;
+        font-weight: bold;
+    }
+    
+    .nav ul li a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    .nav ul li {
+        padding: 10px;
+    }
+    /* nav css Start */
+    /* contact login register css start */
+    
+    .form {
+        padding: 0 4rem;
+    }
+    
+    input {
+        display: block;
+        width: 400px;
+    }
+    
+    .form button {
+        background-color: black;
+        color: white;
+        border: none;
+        padding: .7rem 1rem;
+        outline: none;
+    }
+    
+    #country {
+        width: 400px;
+        height: 25px;
+    }
+</style>
